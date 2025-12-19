@@ -128,8 +128,8 @@ For detailed architecture documentation, see [ARCHITECTURE.md](./ARCHITECTURE.md
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nizarhussain2024/SmartCart---AI-Grocery-Delivery.git
-   cd SmartCart---AI-Grocery-Delivery
+   git clone https://github.com/nizarhussain2024/SmartCart-AI-Grocery-Delivery.git
+   cd SmartCart-AI-Grocery-Delivery
    ```
 
 2. **Install frontend dependencies**
@@ -314,7 +314,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Nizar Hussain**
 
 - GitHub: [@nizarhussain2024](https://github.com/nizarhussain2024)
-- Project Link: [https://github.com/nizarhussain2024/SmartCart---AI-Grocery-Delivery](https://github.com/nizarhussain2024/SmartCart---AI-Grocery-Delivery)
+- Project Link: [https://github.com/nizarhussain2024/SmartCart-AI-Grocery-Delivery](https://github.com/nizarhussain2024/SmartCart-AI-Grocery-Delivery)
 
 ## 🙏 Acknowledgments
 
